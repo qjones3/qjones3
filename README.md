@@ -32,128 +32,61 @@ I'm Quinton - a detail-oriented web professional with 13+ years’ experience as
  <table>
   <tbody>
     <tr valign="top">
-
-      <td width="25%" align="center">
-        <br>
+      <td width="25%" align="center"><br>
         <img src="https://cdn.svgporn.com/logos/wordpress-icon.svg" height="64px">
         <h3>WordPress</h3>
-        <br>
-      </td>
-
-      <td width="25%" align="center">
-        <br>
+      </td><td width="25%" align="center"><br>
         <img src="https://cdn.svgporn.com/logos/drupal-icon.svg" height="64px">
         <h3>Drupal 8 & 9</h3>
-        <br>
-      </td>
-
-      <td width="25%" align="center">
-        <br>
+      </td><td width="25%" align="center"><br>
         <img src="https://cdn.svgporn.com/logos/html-5.svg" height="64px">
         <h3>HTML5</h3>
-        <br>
-      </td>
-
-      <td width="25%" align="center">
-        <br>
+      </td><td width="25%" align="center"><br>
         <img src="https://cdn.svgporn.com/logos/css-3.svg" height="64px">
         <h3>CSS3</h3>
-        <br>
       </td>
     </tr>
-
-    <tr valign="top">
-
-      <td width="25%" align="center">
-        <br>
+    <tr valign="top"><td width="25%" align="center"><br>
         <img src="https://cdn.svgporn.com/logos/php.svg" height="64px">
         <h3>PHP</h3>
-        <br>
-      </td>
-
-      <td width="25%" align="center">
-        <br>
+      </td><td width="25%" align="center"><br>
         <img src="https://cdn.svgporn.com/logos/javascript.svg" height="64px">
         <h3>JavaScript</h3>
-        <br>
-      </td>
-
-      <td width="25%" align="center">
-        <br>
+      </td><td width="25%" align="center"><br>
         <img src="https://cdn.svgporn.com/logos/jquery.svg" height="64px">
         <h3>jQuery</h3>
-        <br>
-      </td>
-
-      <td width="25%" align="center"><span></span><br>
-        <br>
+      </td><td width="25%" align="center"><br>
         <img src="https://cdn.svgporn.com/logos/bootstrap.svg" height="64px">
         <h3>Bootstrap</h3>
-        <br>
       </td>
     </tr>
-
-    <tr valign="top">
-
-      <td width="25%" align="center">
-        <br>
+    <tr valign="top"><td width="25%" align="center"><br>
         <img src="https://cdn.svgporn.com/logos/phpstorm.svg" height="64px">
         <h3>PhpStorm</h3>
-        <br>
-      </td>
-
-      <td width="25%" align="center">
-        <br>
+      </td><td width="25%" align="center"><br>
         <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" height="64px">
         <h3>VS Code</h3>
-        <br>
-      </td>
-
-      <td width="25%" align="center">
-        <br>
+      </td><td width="25%" align="center"><br>
         <img src="https://cdn.svgporn.com/logos/git-icon.svg" height="64px">
         <h3>Git</h3>
-        <br>
-      </td>
-
-      <td width="25%" align="center">
-        <br>
+      </td><td width="25%" align="center"><br>
         <img src="https://cdn.svgporn.com/logos/sass.svg" height="64px">
         <h3>Sass</h3>
-        <br>
       </td>
     </tr>
-
-    <tr valign="top">
-
-      <td width="25%" align="center">
-        <br>
+    <tr valign="top"><td width="25%" align="center"><br>
         <img src="https://cdn.svgporn.com/logos/gulp.svg" height="64px">
         <h3>Gulp</h3>
-        <br>
-      </td>
-
-      <td width="25%" align="center">
-        <br>
+      </td><td width="25%" align="center"><br>
         <img src="https://cdn.svgporn.com/logos/docker-icon.svg" height="64px">
         <h3>Docker</h3>
-        <br>
-      </td>
-
-      <td width="25%" align="center">
-        <br>
+      </td><td width="25%" align="center"><br>
         <img src="https://cdn.svgporn.com/logos/symfony.svg" height="64px">
         <h3>Symfony</h3>
-        <br>
-      </td>
-
-      <td width="25%" align="center">
-        <br>
+      </td><td width="25%" align="center"><br>
         <img src="https://cdn.svgporn.com/logos/nodejs.svg" height="64px">
         <h3>Node.js</h3>
-        <br>
       </td>
-
     </tr>
   </tbody>
 </table>
