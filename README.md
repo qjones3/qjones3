@@ -29,7 +29,6 @@ A detail-oriented web professional with 13+ years’ experience as a Web Design 
  - My favorite music genre is Smooth Jazz.
  - Brian Culbertson is my favorite musician.
  <br>
- <br>
  <table>
   <tbody>
     <tr valign="top">
