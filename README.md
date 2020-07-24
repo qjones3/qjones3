@@ -6,12 +6,11 @@
 
 I'm Quinton - a detail-oriented web professional with 13+ years’ experience as a Web Design & Development specialist. Skilled in Drupal 8 & 9, WordPress, PHP, JavaScript, and production analysis. Extremely task oriented, meticulous, with a strong attention to detail. Excellent written and oral communication skills; able to quickly transform complex project objectives into easily definable solutions.
 
-## Here are some ideas to get you started:
-🔭 I’m currently working on a Mobile app to help homeowners manage feeding and pruning schedules for their whole yard.
+**🔭 I’m currently working on a Mobile app to help homeowners manage feeding and pruning schedules for their whole yard.**
 
-🌱 I’m currently learning Object Oriented Programming (OOP) with Drupal and Symfony.
+**🌱 I’m currently learning Object Oriented Programming (OOP) with Drupal and Symfony.**
 
-👯 I’m looking to collaborate on Drupal 8 & 9 and WordPress projects.
+**👯 I’m looking to collaborate on Drupal 8 & 9 and WordPress projects.**
 
 <!--
 - 🤔 I’m looking for help with ...
