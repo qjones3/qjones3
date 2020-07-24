@@ -25,9 +25,9 @@ A detail-oriented web professional with 13+ years’ experience as a Web Design 
 ## ⚡ Fun facts:
  - I spent 9 years in the Army Band as a percussionist.
  - I owned and oprated a commercial recording facility for 12 years.
- - I'm a certified Scuba Diver
- - I'm still in love with Smooth Jazz.
- - Brian Culbertson is my favorite artist.
+ - I'm a certified Scuba Diver.
+ - My favorite music genre is Smooth Jazz.
+ - Brian Culbertson is my favorite musician.
  
  <table>
   <tbody>
