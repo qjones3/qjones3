@@ -6,9 +6,9 @@
 
 A detail-oriented web professional with 13+ years’ experience as a Web Design & Development specialist. Skilled in Drupal 8 & 9, WordPress, PHP, JavaScript, and production analysis. Extremely task oriented, meticulous, with a strong attention to detail. Excellent written and oral communication skills; able to quickly transform complex project objectives into easily definable solutions.
 
-**🔭 I’m currently working on a Mobile app to help homeowners manage feeding and pruning schedules for their whole yard.**
+**🔭 I’m currently working on a Mobile app to help homeowners manage the feeding and pruning schedules for their yards.**
 
-**🌱 I’m currently learning Object Oriented Programming (OOP) with Drupal and Symfony.**
+**🌱 I’m currently learning Object Oriented Programming (OOP) with Drupal 9 and Symfony.**
 
 **👯 I’m looking to collaborate on Drupal 8 & 9 and WordPress projects.**
 
@@ -28,7 +28,8 @@ A detail-oriented web professional with 13+ years’ experience as a Web Design 
  - I'm a certified Scuba Diver.
  - My favorite music genre is Smooth Jazz.
  - Brian Culbertson is my favorite musician.
- 
+ <br>
+ <br>
  <table>
   <tbody>
     <tr valign="top">
@@ -81,12 +82,17 @@ A detail-oriented web professional with 13+ years’ experience as a Web Design 
         <img src="https://cdn.svgporn.com/logos/docker-icon.svg" height="64px">
         <h3>Docker</h3>
       </td><td width="25%" align="center"><br>
+        <img src="https://cdn.svgporn.com/logos/composer.svg" height="64px">
+        <h3>Composer</h3>
+      </td><td width="25%" align="center"><br>
         <img src="https://cdn.svgporn.com/logos/symfony.svg" height="64px">
         <h3>Symfony</h3>
-      </td><td width="25%" align="center"><br>
-        <img src="https://cdn.svgporn.com/logos/nodejs.svg" height="64px">
-        <h3>Node.js</h3>
       </td>
+    </tr>
+    <tr valign="top"></td><td width="25%" align="center"><br>
+      <img src="https://cdn.svgporn.com/logos/nodejs.svg" height="64px">
+      <h3>Node.js</h3>
+    </td>
     </tr>
   </tbody>
 </table>
