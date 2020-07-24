@@ -24,7 +24,7 @@ I'm Quinton - a detail-oriented web professional with 13+ years’ experience as
  - LinkedIn: https://www.linkedin.com/in/qcdesignva
  
 ## ⚡ Fun facts:
- - I spent 9 years in the Army as a percussionist.
+ - I spent 9 years in the Army Band as a percussionist.
  - I owned and oprated a commercial recording facility for 12 years.
  - I'm still in love with Smooth Jazz.
  - Brian Culbertson is my favorite artist.
