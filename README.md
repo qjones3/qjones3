@@ -95,3 +95,8 @@ A detail-oriented web professional with 13+ years’ experience as a Web Design 
     </tr>
   </tbody>
 </table>
+<br>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=qjones3&show_icons=true)
+
+![Profile views](https://gpvc.arturio.dev/qjones3)  
