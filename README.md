@@ -4,7 +4,7 @@
 **qjones3/qjones3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-A detail-oriented web professional with 13+ years’ experience as a Web Design & Development specialist. Skilled in Drupal 8 & 9, WordPress, PHP, JavaScript, and production analysis. Extremely task oriented, meticulous, with a strong attention to detail. Excellent written and oral communication skills; able to quickly transform complex project objectives into easily definable solutions.
+A detail-oriented web professional with 15+ years’ experience as a Web Design & Development specialist, and Architect. Skilled in Drupal 8 & 9, WordPress, decoupled Gatsby, React, PHP, JavaScript, and production analysis. Extremely task oriented, meticulous, with a strong attention to detail. Excellent written and oral communication skills; able to quickly transform complex project objectives into easily definable solutions.
 
 **🔭 I’m currently working on a Mobile app to help homeowners manage the feeding and pruning schedules for their yards.**
 
@@ -16,8 +16,7 @@ A detail-oriented web professional with 13+ years’ experience as a Web Design 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 ## 📫 How to reach me:
- - Email: qjones@qcdesign.com
- - Website: https://qcdesign.com
+ - Email: qjones316@gmail.com
  - Facebook: https://www.facebook.com/QCDesign.VA
  - Twitter: https://twitter.com/QC_Design
  - LinkedIn: https://www.linkedin.com/in/qcdesignva
