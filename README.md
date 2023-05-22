@@ -36,7 +36,7 @@ A detail-oriented web professional with 15+ years’ experience as a Web Design 
         <h3>WordPress</h3>
       </td><td width="25%" align="center"><br>
         <img src="https://cdn.svgporn.com/logos/drupal-icon.svg" height="64px">
-        <h3>Drupal 8 & 9</h3>
+        <h3>Drupal 9 & 10</h3>
       </td><td width="25%" align="center"><br>
         <img src="https://cdn.svgporn.com/logos/html-5.svg" height="64px">
         <h3>HTML5</h3>
