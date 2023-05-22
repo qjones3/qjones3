@@ -87,10 +87,16 @@ A detail-oriented web professional with 15+ years’ experience as a Web Design 
         <h3>Symfony</h3>
       </td>
     </tr>
-    <tr valign="top"></td><td width="25%" align="center"><br>
-      <img src="https://cdn.svgporn.com/logos/nodejs.svg" height="64px">
-      <h3>Node.js</h3>
-    </td>
+    <tr valign="top"><td width="25%" align="center"><br>
+      <img src="https://cdn.svgporn.com/logos/react.svg" height="64px">
+        <h3>React</h3>
+      </td><td width="25%" align="center"><br>
+        <img src="https://cdn.svgporn.com/logos/gatsby.svg" height="64px">
+        <h3>Gatsby</h3>
+      </td><td width="25%" align="center"><br>
+        <img src="https://cdn.svgporn.com/logos/nodejs.svg" height="64px">
+        <h3>Node.js</h3>
+      </td>
     </tr>
   </tbody>
 </table>
