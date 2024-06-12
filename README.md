@@ -17,7 +17,6 @@ A detail-oriented web professional with 15+ years’ experience as a Web Design 
 - 💬 Ask me about ... -->
 ## 📫 How to reach me:
  - Email: qjones316@gmail.com
- - Email: quinton.jones@mediacurrent.com
  
 ## ⚡ Fun facts:
  - I spent 9 years in the Army Band as a percussionist.
